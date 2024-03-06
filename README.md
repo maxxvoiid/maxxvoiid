@@ -2,13 +2,7 @@
 
 <!-- **soymaxisepYT/soymaxisepYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🌌 Oficial Github de **MaxxVoiid** 😎👍
-
-🎮 ¡Soy un **dev de roblox** y de "apps para **android**"! 🤑
-
-⚒️ Aún sigo creando experiencias para roblox y "apps". 👍
-
-🌟 ¡Gracias por ver mí perfil! 😻
+🌌 Oficial Github de **MaxxVoiid**
 
 📊 ¡Mis estadísticas de **Github**!
 
